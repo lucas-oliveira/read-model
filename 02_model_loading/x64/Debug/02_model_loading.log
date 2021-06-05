@@ -1,0 +1,18 @@
+﻿  gl3w.c
+  gl_utils.cpp
+C:\Users\lukor\Downloads\read-model\utils\gl_utils.cpp(7,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  04_model_loading.cpp
+C:\Users\lukor\Downloads\read-model\utils\filesystem.h(23,35): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukor\Downloads\read-model\utils\shader_m.h(53,14): warning C4101: 'infoLog': unreferenced local variable
+C:\Users\lukor\Downloads\read-model\utils\shader_m.h(52,13): warning C4101: 'success': unreferenced local variable
+C:\Users\lukor\Downloads\read-model\utils\learnopengl\mesh.h(91,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\lukor\Downloads\read-model\02_model_loading\04_model_loading.cpp(98,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukor\Downloads\read-model\02_model_loading\04_model_loading.cpp(179,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukor\Downloads\read-model\02_model_loading\04_model_loading.cpp(180,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukor\Downloads\read-model\02_model_loading\04_model_loading.cpp(184,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukor\Downloads\read-model\02_model_loading\04_model_loading.cpp(185,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukor\Downloads\read-model\02_model_loading\04_model_loading.cpp(187,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukor\Downloads\read-model\02_model_loading\04_model_loading.cpp(188,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukor\Downloads\read-model\02_model_loading\04_model_loading.cpp(197,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  02_model_loading.vcxproj -> C:\Users\lukor\Downloads\read-model\x64\Debug\04_model_loading.exe
